@@ -1,0 +1,48 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: paleturquoise;
+}
+
+h1{
+    color: blueviolet;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    &.red{
+        background-color: red;
+    }
+    &.yellow{
+        background-color: yellow;
+    }
+    &.blue{
+        background-color: blue;
+    }
+    &.green{
+        background-color: green;
+    }
+    &.orange{
+        background-color: orange;
+    }
+   
+}
+
+.red{
+    color: red;
+}
+
+.yellow{
+    color: yellow;
+}
+
+.blue{
+    color: blue;
+}
+
+.green{
+    color: green;
+}
+
+.orange{
+    color: orange;
+}
